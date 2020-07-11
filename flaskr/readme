@@ -1,1 +1,3 @@
-
+__init__.py 为flask API构建（Built for flask API）
+db.py 为SQlite数据库创建（Create for SQlite database）
+schema.sql
